@@ -1,0 +1,46 @@
+.dim {
+    margin-right: 21px;
+    width: 24px;
+    height: 20px;
+}
+
+.list li {
+    list-style: none;
+    width: 218px;
+    height: 44px;
+    padding-top: 21px;
+}
+
+.list {
+    color: #9e9a9a!important;
+    display: inline;
+    width: 20px;
+}
+
+li:hover {
+    background-color: #f9f9f9 !important;
+    border-left: 4px solid #ff54b3;
+}
+
+.a {
+    width: 218px;
+}
+
+.header {
+    background-image: url('../imges/logo.PNG');
+    width: 217px;
+    height: 45px;
+    background-repeat: no-repeat;
+    margin-top: 50px;
+}
+
+.continar {
+    height: 52px;
+    padding-left: 22px;
+}
+
+.sidebar {
+    width: 255px;
+    height: 568px;
+    box-shadow: 10px 0px 5px#f4f4f4;
+}

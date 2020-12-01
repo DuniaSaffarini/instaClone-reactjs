@@ -1,0 +1,35 @@
+.sto {
+    background-size: 66px;
+    width: 66px;
+    height: 66px;
+    background-image: url('../imges/or.jpg');
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    margin-top: 5px;
+    background-color: #fff;
+    border: 4px solid white;
+    border-left-width: 0px;
+}
+
+.margin {
+    margin-left: 36px;
+}
+
+.postStory {
+    background-size: 166px;
+    width: 160px;
+    background-image: url('../imges/of.jpg');
+    background-repeat: no-repeat;
+    border-radius: 70px 0px 0px 70px;
+}
+
+.sp {
+    color: gray;
+    margin-right: 16px;
+}
+
+.desc span {
+    font-size: 12.5px;
+    margin: 0px;
+    margin-left: 18px;
+}

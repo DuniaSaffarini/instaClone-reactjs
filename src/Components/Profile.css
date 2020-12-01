@@ -1,0 +1,27 @@
+.profileContent {
+    margin-left: 10px;
+    margin-top: 13px;
+}
+
+.profileContent p {
+    margin: 0px;
+    font-size: 10px;
+    color: #f74b6a;
+}
+
+p:not(:first-child) {
+    color: #cecece;
+}
+
+.profileIcon {
+    background-image: url('../imges/profileIcon.jpg');
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    height: 50px;
+    width: 47px;
+    margin-top: 5px;
+}
+
+.container {
+    display: inline-flex;
+}

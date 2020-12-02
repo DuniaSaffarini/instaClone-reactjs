@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/DuniaSaffarini/instaClone-reactjs.git/static/css/main.9c3c0a25.chunk.css",
-    "main.js": "/DuniaSaffarini/instaClone-reactjs.git/static/js/main.c47a793d.chunk.js",
-    "main.js.map": "/DuniaSaffarini/instaClone-reactjs.git/static/js/main.c47a793d.chunk.js.map",
+    "main.css": "/DuniaSaffarini/instaClone-reactjs.git/static/css/main.1f42a043.chunk.css",
+    "main.js": "/DuniaSaffarini/instaClone-reactjs.git/static/js/main.cc1f64cc.chunk.js",
+    "main.js.map": "/DuniaSaffarini/instaClone-reactjs.git/static/js/main.cc1f64cc.chunk.js.map",
     "runtime-main.js": "/DuniaSaffarini/instaClone-reactjs.git/static/js/runtime-main.76752be5.js",
     "runtime-main.js.map": "/DuniaSaffarini/instaClone-reactjs.git/static/js/runtime-main.76752be5.js.map",
     "static/js/2.82705493.chunk.js": "/DuniaSaffarini/instaClone-reactjs.git/static/js/2.82705493.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.60204c49.chunk.js": "/DuniaSaffarini/instaClone-reactjs.git/static/js/3.60204c49.chunk.js",
     "static/js/3.60204c49.chunk.js.map": "/DuniaSaffarini/instaClone-reactjs.git/static/js/3.60204c49.chunk.js.map",
     "index.html": "/DuniaSaffarini/instaClone-reactjs.git/index.html",
-    "static/css/main.9c3c0a25.chunk.css.map": "/DuniaSaffarini/instaClone-reactjs.git/static/css/main.9c3c0a25.chunk.css.map",
+    "static/css/main.1f42a043.chunk.css.map": "/DuniaSaffarini/instaClone-reactjs.git/static/css/main.1f42a043.chunk.css.map",
     "static/js/2.82705493.chunk.js.LICENSE.txt": "/DuniaSaffarini/instaClone-reactjs.git/static/js/2.82705493.chunk.js.LICENSE.txt",
     "static/media/sidebarComponent.css": "/DuniaSaffarini/instaClone-reactjs.git/static/media/logo.804cd3fa.PNG"
   },
   "entrypoints": [
     "static/js/runtime-main.76752be5.js",
     "static/js/2.82705493.chunk.js",
-    "static/css/main.9c3c0a25.chunk.css",
-    "static/js/main.c47a793d.chunk.js"
+    "static/css/main.1f42a043.chunk.css",
+    "static/js/main.cc1f64cc.chunk.js"
   ]
 }

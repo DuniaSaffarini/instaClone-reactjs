@@ -18,7 +18,7 @@ export default function SidebarComponent() {
         <div className="continar">
           <div className="header"></div>
         </div>
-        <ul>
+        <ul className="men">
           <li>
             <a href="/">
               <Home className="dim" />
